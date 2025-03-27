@@ -1,0 +1,15 @@
+../../../Simulators/BusEncodingSimulator/NSNSimulator/sim-outorder -fastfwd 100000000 -max:inst 100000000 art00.peak.ev6 -scanfile c756hel.in -trainfile1 a10.img -trainfile2 hc.img -stride 2 -startx 110 -starty 200 -endx 160 -endy 240 -objects 10 
+
+mv FinalCoding.dat ../../../Simulators/BusEncodingSimulator/SatyaJournalResults/FF100/ArtFF100.txt
+
+../../../Simulators/BusEncodingSimulator/NSNSimulator/sim-outorder -fastfwd 200000000 -max:inst 100000000 art00.peak.ev6 -scanfile c756hel.in -trainfile1 a10.img -trainfile2 hc.img -stride 2 -startx 110 -starty 200 -endx 160 -endy 240 -objects 10 
+
+mv FinalCoding.dat ../../../Simulators/BusEncodingSimulator/SatyaJournalResults/FF200/ArtFF200.txt
+
+../../../Simulators/BusEncodingSimulator/NSNSimulator/sim-outorder -fastfwd 300000000 -max:inst 100000000 art00.peak.ev6 -scanfile c756hel.in -trainfile1 a10.img -trainfile2 hc.img -stride 2 -startx 110 -starty 200 -endx 160 -endy 240 -objects 10 
+
+mv FinalCoding.dat ../../../Simulators/BusEncodingSimulator/SatyaJournalResults/FF300/ArtFF300.txt
+
+../../../Simulators/BusEncodingSimulator/NSNSimulator/sim-outorder -fastfwd 400000000 -max:inst 100000000 art00.peak.ev6 -scanfile c756hel.in -trainfile1 a10.img -trainfile2 hc.img -stride 2 -startx 110 -starty 200 -endx 160 -endy 240 -objects 10 
+
+mv FinalCoding.dat ../../../Simulators/BusEncodingSimulator/SatyaJournalResults/FF400/ArtFF400.txt

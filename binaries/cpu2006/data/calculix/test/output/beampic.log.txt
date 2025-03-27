@@ -1,0 +1,23 @@
+
+************************************************************
+
+CalculiX DEVELOPMENT VERSION, Copyright(C) 1998 Guido Dhondt
+CalculiX comes with ABSOLUTELY NO WARRANTY. This is free
+software, and you are welcome to redistribute it under
+certain conditions, see gpl.htm
+
+************************************************************
+
+Decascading the MPC's
+
+Renumbering the nodes to decrease the profile:
+Determining the structure of the matrix:
+number of equations
+720
+number of nonzero matrix elements
+38178
+total length of the skyline
+0*2147483647+58986
+percentage of nonzero skyline elements
+63.943322
+
